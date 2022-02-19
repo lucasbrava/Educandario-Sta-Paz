@@ -1,2 +1,2 @@
-# aula_bootstrap
-Aula DIO bootstrap
+# bootstrap_flexbox
+Aula DIO bootstrap/flexbox
